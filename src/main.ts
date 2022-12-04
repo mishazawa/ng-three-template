@@ -1,3 +1,5 @@
+import "./glsl.d"
+
 import {enableProdMode, ViewEncapsulation} from '@angular/core';
 import {platformBrowserDynamic} from '@angular/platform-browser-dynamic';
 
